@@ -6,7 +6,7 @@
     <li>gain[i] = net change between i and i + 1</li>
     <li>Return highest altitude point.</li>
 </ul>
-
+<img src="New folder/Problem_Example.jpg" alt="Picture showing how I interpret the problem to work"></img>
 Looking at the example the biker starts at point [0] goes to point at -5. 
 [0:-5] = -5, [1:1] = -4, [2:5] = 1, [3:0] = 1, [4:-7] = -6
 highest altitude = 1
